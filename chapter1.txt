@@ -4,3 +4,14 @@ i was wondering in horrors of past
 from which i still bare the scars
 
 across the street lived a girl
+[33mcommit 7a144369d84c9bc50adf871f6e0df97ee5ea681e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sane sane <sane@sane.local>
+Date:   Thu Aug 1 23:51:49 2024 +0530
+
+    chapter 2 and chapter 3 added
+
+[33mcommit 14db41a7180d133f62e317fbe0e74da530d16a81[m
+Author: sane sane <sane@sane.local>
+Date:   Thu Aug 1 23:43:25 2024 +0530
+
+    initial commit
